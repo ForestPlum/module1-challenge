@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 68px;
+    font-size: 58px;
 }
 
 .header h1 .seo {
@@ -25,11 +25,11 @@ body {
 }
 
 .header div {
-    padding-top: 15px;
+    padding-top: 10px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .header div ul {
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .hero {
@@ -81,7 +81,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 80%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #ffffff;
 }
@@ -139,7 +139,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #9fe7ff;
+    background-color: #bfd8f5;
     color: #180367;
 }
 
@@ -148,7 +148,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #9fe7ff;
+    background-color: #bfd8f5;
     color: #180367;
 }
 
@@ -157,7 +157,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #9fe7ff;
+    background-color: #bfd8f5;
     color: #180367;
 }
 
